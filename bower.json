@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "normalize-css": "^7.0.0"
   }
 }
